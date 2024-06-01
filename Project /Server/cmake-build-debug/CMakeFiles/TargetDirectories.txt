@@ -1,0 +1,3 @@
+/home/davit/Desktop/Server/cmake-build-debug/CMakeFiles/Server.dir
+/home/davit/Desktop/Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/davit/Desktop/Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
